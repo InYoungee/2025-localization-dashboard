@@ -1,18 +1,40 @@
-# Streamlit Dashboard - Localization Projects
-Built from real-world experience as a localization project manager in gaming, this dashboard provides actionable insights into translation workflows — tracking word count volumes, linguist distribution, vendor vs. in-house workload, and project trends across multiple game titles. 
+# 2025 Localization Project Dashboard
 
-Developed using Python, Streamlit, Pandas, Plotly, and Seaborn.
+An interactive Streamlit dashboard for analyzing localization project performance in the gaming industry. Built with Python, Pandas, Plotly, Matplotlib, and Seaborn.
 
-## 📁 Data
-The dataset used in this project was cleaned and anonymized from internal localization data.
-For confidentiality reasons, the raw CSV is not included in this repository.
+## Features
 
-To run the dashboard, place your own CSV file in the project root with the following columns:
+- **Word Count Trends**: Monthly and quarterly volume analysis
+- **Game Performance**: Project counts, word counts, and LQA intensity by game
+- **Linguist Workload**: Distribution analysis for in-house translators vs. vendors
+- **Bubble Chart**: Project volume vs. word count with average WC per project
+- **Interactive Filters**: Game selection and toggle views for deeper insights
 
-- Game
-- Request Type (Trans, LQA, Review)
-- Total WC
-- Assignee
-- Date Rcvd
-- Due Date
+## Live Demo
 
+[View Dashboard](https://2025-localization-dashboard-npw82kyv5mmsauwrs43egu.streamlit.app/) *(once deployed)*
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- Matplotlib
+- Seaborn
+
+## Local Setup
+```bash
+git clone https://github.com/yourusername/2025-localization-dashboard.git
+cd 2025-localization-dashboard
+pip install -r requirements.txt
+streamlit run l10n_dashboard.py
+```
+
+## Data
+
+The CSV contains anonymized localization project data including game titles, request types (Translation/LQA), word counts, linguist assignments, and project dates.
+
+---
+
+© 2025 Inyoung Kim | Built with Python & Streamlit
