@@ -2,6 +2,10 @@
 
 An interactive Streamlit dashboard for analyzing localization project performance in the gaming industry. Built with Python, Pandas, Plotly, Matplotlib, and Seaborn.
 
+## 🔗 Live Demo 
+
+[View Dashboard](https://2025-localization-dashboard-npw82kyv5mmsauwrs43egu.streamlit.app/) 
+
 ## Features
 
 - **Word Count Trends**: Monthly and quarterly volume analysis
@@ -10,9 +14,6 @@ An interactive Streamlit dashboard for analyzing localization project performanc
 - **Bubble Chart**: Project volume vs. word count with average WC per project
 - **Interactive Filters**: Game selection and toggle views for deeper insights
 
-## Live Demo
-
-[View Dashboard](https://2025-localization-dashboard-npw82kyv5mmsauwrs43egu.streamlit.app/) 
 ## Tech Stack
 
 - Python
