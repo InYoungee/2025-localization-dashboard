@@ -35,6 +35,7 @@ streamlit run l10n_dashboard.py
 
 The CSV contains anonymized localization project data including game titles, request types (Translation/LQA), word counts, linguist assignments, and project dates.
 
+![Web Interface Dashboard](https://github.com/InYoungee/2025-localization-dashboard/blob/main/images/dashboard.gif)
 ---
 
 © 2025 Inyoung Kim | Built with Python & Streamlit
