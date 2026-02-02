@@ -12,8 +12,7 @@ An interactive Streamlit dashboard for analyzing localization project performanc
 
 ## Live Demo
 
-[View Dashboard](https://2025-localization-dashboard-npw82kyv5mmsauwrs43egu.streamlit.app/) *(once deployed)*
-
+[View Dashboard](https://2025-localization-dashboard-npw82kyv5mmsauwrs43egu.streamlit.app/) 
 ## Tech Stack
 
 - Python
