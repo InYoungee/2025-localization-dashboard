@@ -1,6 +1,6 @@
 # 2025 Localization Project Dashboard
 
-An interactive Streamlit dashboard for analyzing localization project performance in the gaming. Built with Python, Pandas, Plotly, Matplotlib, Seaborn, and Streamlit.
+An interactive Streamlit dashboard for analyzing localization project performance in the gaming. Built with Python, Pandas, Plotly, Matplotlib, and Seaborn.
 
 ## 🔗 Live Demo 
 
