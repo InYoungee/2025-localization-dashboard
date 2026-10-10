@@ -5,6 +5,7 @@ An interactive Streamlit dashboard for analyzing localization project performanc
 ## 🔗 Live Demo 
 
 [Link to Dashboard](https://2025-localization-dashboard-npw82kyv5mmsauwrs43egu.streamlit.app/) 
+
 ![Web Interface Dashboard](https://github.com/InYoungee/2025-localization-dashboard/blob/main/images/dashboard.gif)
 
 ## Features
