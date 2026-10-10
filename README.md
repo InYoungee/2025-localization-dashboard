@@ -4,7 +4,8 @@ An interactive Streamlit dashboard for analyzing localization project performanc
 
 ## 🔗 Live Demo 
 
-[View Dashboard](https://2025-localization-dashboard-npw82kyv5mmsauwrs43egu.streamlit.app/) 
+[Link to Dashboard](https://2025-localization-dashboard-npw82kyv5mmsauwrs43egu.streamlit.app/) 
+![Web Interface Dashboard](https://github.com/InYoungee/2025-localization-dashboard/blob/main/images/dashboard.gif)
 
 ## Features
 
@@ -35,9 +36,6 @@ streamlit run l10n_dashboard.py
 
 The CSV contains anonymized localization project data including game titles, request types (Translation/LQA), word counts, linguist assignments, and project dates.
 
-## Demo
-
-![Web Interface Dashboard](https://github.com/InYoungee/2025-localization-dashboard/blob/main/images/dashboard.gif)
 ---
 
 © 2025 Inyoung Kim | Built with Python & Streamlit
